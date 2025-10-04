@@ -25,6 +25,7 @@ Kitab ini akan mencakup berbagai topik menarik di bidang teknologi, di antaranya
 - **Desain Grafis (Graphic Design)**: Memahami dasar-dasar desain dan cara mengimplementasikan desain kamu.
 - **Intelektual Buatan (Artificial Intelligence)**: Pengenalan konsep, algoritma, dan aplikasi AI dalam dunia teknologi.
 - **Pemrograman Kompetitif (Competitive Programming)**: Berupa kumpulan kode-kode solusi pemrograman kompetitif menggunakan bahasa C++ dari berbagai situs (TLX, CodeForces, LeetCode, Hackerrank, SPOJ) dan beberapa penjelasan konsep algoritma seperti Dynamic Programming, Greedy, Sorting & Searching.
+- **Pengembangan Gim (Game Development)**: Mempelajari proses pembuatan game mulai dari konsep, desain, hingga implementasi menggunakan berbagai game engine. Topik ini mencakup pemrograman gameplay, pembuatan aset visual, desain level, animasi, audio, hingga pengujian dan optimasi agar game dapat berjalan di berbagai platform seperti PC, mobile, dan konsol.
 
 ---
 
