@@ -16,5 +16,11 @@ Pemrograman kompetitif adalah olahraga pikiran atau kompetisi di mana para peser
 - TLX: OSN Informatika 2008 - Memasang Lantai: https://tlx.toki.id/problems/osn-2008/3B
 - TLX: OSN Informatika 2011 - Coin Asing: https://tlx.toki.id/problems/osn-2011/0B
 - TLX: OSN Informatika 2024 - Riwayat Bebek: https://tlx.toki.id/problems/osn-2024/0A
+- TLX: OSN-P Informatika 2024 - Tebas Tebang Pohon: https://tlx.toki.id/problems/osnp-2024/C
+- TLX: OSN-P Informatika 2024 - String Cantik OSN: https://tlx.toki.id/problems/osnp-2024/A
+- TLX: OSN-P Informatika 2024 - Berbagi Banyak Candil: https://tlx.toki.id/problems/osnp-2024/B
+- TLX: OSN Semi-Final Informatika 2025 - Gulali 17-an: https://tlx.toki.id/problems/osn-2025-semifinal/A
+- TLX: Singapore National Olympiad in Informatics Qualification Round - Snacks: https://tlx.toki.id/problems/sg-noi-2025-qual/C
+- SPOJ: SPOJ - Aggresive Cows: https://www.spoj.com/problems/AGGRCOW/
   
 
