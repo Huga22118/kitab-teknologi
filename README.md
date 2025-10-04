@@ -1,6 +1,6 @@
 # Kitab Teknologi
 
-**Kitab Teknologi** adalah sebuah panduan lengkap yang ditujukan untuk para penggemar teknologi (**Tech Geeks**) di seluruh dunia. Buku ini dirancang untuk memberikan wawasan mendalam tentang berbagai aspek teknologi modern, mulai dari **pengembangan web, aplikasi mobile, aplikasi dekstop**, **keamanan siber**, hingga **desain grafis**. 
+**Kitab Teknologi** adalah sebuah panduan lengkap yang ditujukan untuk para penggemar teknologi (**Tech Geeks**) di seluruh dunia. Buku ini dirancang untuk memberikan wawasan mendalam tentang berbagai aspek teknologi modern, mulai dari **pengembangan web, aplikasi mobile, aplikasi dekstop**, **keamanan siber**, **pemrograman kompetitif**, **pengembangan gim**, hingga **desain grafis**. 
 
 ---
 
