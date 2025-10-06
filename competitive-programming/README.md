@@ -45,4 +45,8 @@ Berikut adalah kumpulan solusi kode yang ditulis oleh Huga Ghaisan Syahputra:
 - TLX: TLX Pemrograman Dasar dengan C++ (Latihan Pemantapan Materi Section) - Komposisi Fungsi: https://tlx.toki.id/courses/basic-cpp/chapters/12/problems/B
 - TLX: TLX Pemrograman Kompetitif Lanjutan (Pencarian Biner Lanjutan Section) - Perkenalan Binary Search The Answer I: https://tlx.toki.id/courses/competitive-2/chapters/01/problems/A
 - TLX: TLX Pemrograman Dasar dengan C++ (Latihan Pemantapan Materi Section) - Menggambar Pegunungan: https://tlx.toki.id/courses/basic-cpp/chapters/12/problems/G
+- TLX: TLX Kumpulan Soal TOKI #6 - Hadiah 1: https://tlx.toki.id/problems/toki-6/C
+- TLX: TLX Kumpulan Soal TOKI #6 - Pasangan Bilangan: https://tlx.toki.id/problems/toki-6/D
+- TLX: TLX Kumpulan Soal TOKI #8 - Modus Terbesar: https://tlx.toki.id/problems/toki-8/A
+- TLX: TLX Regular Open Contest #41 - Semut-Semut Kecil: https://tlx.toki.id/problems/troc-41/C
 
