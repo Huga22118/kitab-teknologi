@@ -23,5 +23,16 @@ Berikut adalah kumpulan solusi kode yang ditulis oleh Huga Ghaisan Syahputra:
 - TLX: OSN Semi-Final Informatika 2025 - Gulali 17-an: https://tlx.toki.id/problems/osn-2025-semifinal/A
 - TLX: Singapore National Olympiad in Informatics Qualification Round - Snacks: https://tlx.toki.id/problems/sg-noi-2025-qual/C
 - SPOJ: SPOJ - Aggresive Cows: https://www.spoj.com/problems/AGGRCOW/
-  
+- TLX: BNPHCS 2022 Penyisihan - Djo, Djo, dan Toserba: https://tlx.toki.id/problems/bnpchs-2022-penyisihan/D
+- TLX: BNPHCS 2022 Penyisihan - Djowen dan Bisnis Kue: https://tlx.toki.id/problems/bnpchs-2022-penyisihan/A
+- TLX: BNPHCS 2024 Penyisihan - El Hopaness Romtic: https://tlx.toki.id/problems/bnpchs-2024-penyisihan/A
+- TLX: BNPHCS 2025 Penyisihan - Pacuan Kuda: https://tlx.toki.id/problems/bnpchs-2025-penyisihan/A
+- TLX: Compfest UI 14 JCPC & SCPC Penyisihan - Bola Basket Bersama: https://tlx.toki.id/problems/compfest-14-jcpc-penyisihan/B
+- CSES: CSES Problem Set (Mathematics Section) - Counting Divisors: https://cses.fi/problemset/task/1713
+- CSES: CSES Problem Set (Mathematics Section) - Exponentiation: https://cses.fi/problemset/task/1095
+- CSES: CSES Problem Set (Sorting & Searching Section) - Sum of Two Values: https://cses.fi/problemset/task/1640
+- TLX: Find IT 2024 Penyisihan CP - Mencari Nilai: https://tlx.toki.id/problems/find-it-2024-cp-penyisihan/C
+- TLX: IDEAFUSE 2022 CP Qualification Round - Robust Score: https://tlx.toki.id/problems/ideafuse-2022-cp-qual/A
+- TLX: IDEAFUSE 2022 CP Final Round - Candy Hustle: https://tlx.toki.id/problems/ideafuse-2022-cp-final/A
+- TLX: IDEAFUSE 2023 CP Qualification Round - Survival: https://tlx.toki.id/problems/ideafuse-2023-cp-qual/A
 
