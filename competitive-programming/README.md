@@ -49,4 +49,4 @@ Berikut adalah kumpulan solusi kode yang ditulis oleh Huga Ghaisan Syahputra:
 - TLX: TLX Kumpulan Soal TOKI #6 - Pasangan Bilangan: https://tlx.toki.id/problems/toki-6/D
 - TLX: TLX Kumpulan Soal TOKI #8 - Modus Terbesar: https://tlx.toki.id/problems/toki-8/A
 - TLX: TLX Regular Open Contest #41 - Semut-Semut Kecil: https://tlx.toki.id/problems/troc-41/C
-
+- TLX: OSN Informatika 2009 - Stack and Queue: https://tlx.toki.id/problems/osn-2009/2E
