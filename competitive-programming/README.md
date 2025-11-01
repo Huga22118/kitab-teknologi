@@ -50,3 +50,11 @@ Berikut adalah kumpulan solusi kode yang ditulis oleh Huga Ghaisan Syahputra:
 - TLX: TLX Kumpulan Soal TOKI #8 - Modus Terbesar: https://tlx.toki.id/problems/toki-8/A
 - TLX: TLX Regular Open Contest #41 - Semut-Semut Kecil: https://tlx.toki.id/problems/troc-41/C
 - TLX: OSN Informatika 2009 - Stack and Queue: https://tlx.toki.id/problems/osn-2009/2E
+- TLX: BNPHCS 2025 Final - Bermain Setelah Berlatih: https://tlx.toki.id/problems/bnpchs-2025/A
+- AtCoder: arc084_a - Snuke Festival: https://atcoder.jp/contests/arc084/tasks/arc084_a
+- TLX: Find IT 2024 - Mencari Pengungsian: https://tlx.toki.id/problems/find-it-2024-cp-penyisihan/E
+- TLX: TLX Pemrograman Kompetitif Dasar (Dynamic Programming Section) - Perkenalan Longest Common Subsequence: https://tlx.toki.id/courses/competitive-1/chapters/07/problems/D
+- CSES: CSES Problem Set (Introductory Problems Section) - Missing Number: https://cses.fi/problemset/task/1083
+- CodeForces: Codeforces Round 479 (Div 3.) - Wrong Subtraction: https://codeforces.com/problemset/problem/977/A
+- CodeForces: Codeforces Round 485 (Div 2.) - Infinity Gauntlet: https://codeforces.com/problemset/problem/987/A
+- CodeForces: Codeforces Round 828 (Div 3.) - Even/Odd Increments: https://codeforces.com/problemset/problem/1744/B
