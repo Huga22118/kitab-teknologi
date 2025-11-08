@@ -3,7 +3,7 @@ Folder ini berisi latihan-latihan soal yang dibuat oleh pengurus IT Club sebagai
 
 # Soal
 - Ilriana dan Healthpacknya (tags: Implementation, Math)
-- Panen di desa Calamity (tags: Math: Number Theory )
+- Panen di desa Calamity (tags: Math: Number Theory)
 
 # Editorial
 Editorial biasanya berisi panduan untuk soal yang dibahas yang dapat membantu anda dalam menyelesaikan soal tersebut. Usahakan kerjakan semampunya terlebih dahulu, apabila memang tidak mampu mendapatkan ide yang optimal. Maka, disarankan untuk membuka Editorial.
