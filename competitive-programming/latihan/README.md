@@ -5,7 +5,7 @@ Folder ini berisi latihan-latihan soal yang dibuat oleh pengurus IT Club sebagai
 - Ilriana dan Healthpacknya (tags: Implementation, Math)
 - Panen di Desa Calamity (tags: Math: Number Theory)
 - Setelah Sekian Pertemuan di Desa Calamity... (tags: Math: Number Theory)
-- Komposisi Fungsi? Easy Version (tags: Math: Implementation)
+- Komposisi Fungsi? Easy Version (tags: Implementation, Math)
 - Komposisi Fungsi? Hard Version (tags: Math: Number Theory, Modular Arithmetic)
 
 # Editorial
